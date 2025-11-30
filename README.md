@@ -29,7 +29,8 @@ I'm a senior quality control specialist with a passion for automation and proble
 
 ### 📈 GitHub Stats
 
-[![MSamir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samiir95&show_icons=true&theme=dark&count_private=true&include_all_commits=true)](https://github.com/samiir95)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=samiir95&theme=dark)](https://github.com/samiir95)
+
 
 ### 🔗 Connect with me
 
