@@ -16,7 +16,10 @@ I'm a senior quality control specialist with a passion for automation and proble
 - Python
 - JavaScript
 - Selenium WebDriver
+- Appium
+- Restassured
 - TestNG
+- RobotFramework
 - Git & GitHub
 
 ### 🌟 Projects
